@@ -79,7 +79,14 @@ print("\nPredictions for new hours", new_hours.flatten(), "=>", np.round(pred_ne
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+<img width="1727" height="562" alt="image" src="https://github.com/user-attachments/assets/1179a1ab-5118-4190-85f3-ef4a876c5363" />
+
+<img width="1691" height="611" alt="image" src="https://github.com/user-attachments/assets/7c77846c-6586-4b33-ae61-bbea142fe71a" />
+
+<img width="1702" height="752" alt="image" src="https://github.com/user-attachments/assets/2bd856b3-7168-42af-a74a-d31c0b1fcf0d" />
+
+
 
 
 ## Result:
